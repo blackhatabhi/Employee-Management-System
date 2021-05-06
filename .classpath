@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Employee-Management-System/src"/>
+	<classpathentry kind="lib" path="Employee-Management-System/dist/Employee_Management_System.jar"/>
+	<classpathentry kind="lib" path="Employee-Management-System/dist/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="D:/software/mysql-connector-java-8.0.23.jar"/>
+	<classpathentry kind="output" path="Employee-Management-System/build/classes"/>
+</classpath>
